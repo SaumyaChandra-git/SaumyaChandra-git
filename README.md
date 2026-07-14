@@ -2,7 +2,7 @@
 
 # Hi there, I'm Saumya Chandra 👋
 
-### Software Engineer | Java Backend Developer | Problem Solver
+### Aspiring Software Engineer | Java Backend Developer | Problem Solver
 
 🎓 B.Tech CSE @ NIT Agartala (2022–2026)
 
